@@ -1,5 +1,8 @@
 # xv6
-This was a course project in my Undergrad.\\
+
+This was a course project in my Undergrad.
+
+
 Here I developed different Operating System functionalities in an Educational Purpose OS XV6
 
 
